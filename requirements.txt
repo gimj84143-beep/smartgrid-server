@@ -67,7 +67,7 @@ narwhals==2.21.0
 networkx==3.4.2
 numpy==1.26.4
 onnx==1.17.0
-onnxruntime==1.23.2
+onnxruntime
 onnxslim==0.1.89
 opencv-python==4.12.0.88
 openpyxl==3.1.5
