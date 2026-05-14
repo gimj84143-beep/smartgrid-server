@@ -111,7 +111,7 @@ sympy==1.14.0
 tenacity==9.1.4
 tensorboard==2.20.0
 tensorboard-data-server==0.7.2
-tensorflow==2.20.0
+tensorflow-cpu
 termcolor==3.2.0
 thop==0.1.1.post2209072238
 threadpoolctl==3.6.0
